@@ -1,2 +1,3 @@
 # hello-word
-just another repository
+just another reposit
+Михаил 21 год. Учусь програмированию!
